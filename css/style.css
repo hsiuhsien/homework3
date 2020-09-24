@@ -45,7 +45,7 @@ a{
   text-decoration-style: wavy;
 }
 
-:focus{
+*:focus{
   border-width: 3px;
   border-style: dashed;
   border-color: #417243;
